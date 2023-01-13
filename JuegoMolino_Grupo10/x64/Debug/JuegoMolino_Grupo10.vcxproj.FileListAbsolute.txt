@@ -1,0 +1,2 @@
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\JuegoMolino_Grupo10\JuegoMolino_Grupo10\x64\Debug\JuegoMolino_Grupo10.vcxproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\JuegoMolino_Grupo10\JuegoMolino_Grupo10\x64\Debug\JuegoMolino_Grupo10.vcxproj.SuggestedBindingRedirects.cache
